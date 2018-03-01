@@ -1,10 +1,1 @@
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- متجاوبة -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2150610030530969"
-     data-ad-slot="1787817532"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCm6RsR5xm73I8BNKsWihPpDFv7KjfmTPl6MLA2A25e3M_TA/viewform?embedded=true" width="230" height="200" frameborder="0" marginheight="0" marginwidth="0">جارٍ التحميل...</iframe>
